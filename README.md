@@ -7,3 +7,4 @@ Templates for projects involving evolutionary algorithms in python.
 3. Saving the population state at every generation (or so)
 4. Being able to seed the initial population and restart from a previous state
 5. Parallelizing fitness evaluations, probably using multi-processing (multi-thread still suffers from GIL)
+6. Seeding of all random number generators

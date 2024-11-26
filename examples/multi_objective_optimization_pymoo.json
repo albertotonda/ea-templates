@@ -1,0 +1,6 @@
+{
+	"seed" : 42,
+	"population_size" : 100,
+	"max_generations" : 100,
+	"output_folder" : "../local/multi_objective_optimization_pymoo"
+}
